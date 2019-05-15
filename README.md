@@ -5,3 +5,4 @@ Important:
 2) info.png - example of the program structure + different moments.
 3) XLSX_Parser_Plus_Chart_info.avi - video file with an example of the program work. You can download and watch it.
 4) Data_Rev.xlsx -  file with test data.
+5) Use Maven
